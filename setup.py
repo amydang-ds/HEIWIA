@@ -16,9 +16,9 @@ setup(
     version='0.1.0',
     description='Sample package for Python-Guide.org',
     long_description=readme,
-    author='Kenneth Reitz',
-    author_email='me@kennethreitz.com',
-    url='https://github.com/kennethreitz/samplemod',
+    author='Amy Dang',
+    author_email='dttmy2020@gmail.com',
+    url='https://github.com/amydang-ds/HEIWIA',
     license=license,
     packages=find_packages(exclude=('tests', 'docs'))
 )
